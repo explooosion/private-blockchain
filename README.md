@@ -1,5 +1,9 @@
 # Blocktrain
 
+# Activity
+
+[台中前端社群 7/28 徹底瞭解區塊鏈 從私有鏈出發 @夢森林](https://taichung-frontend.kktix.cc/events/180728-blockchain)
+
 # Geth
 
 ## Installation
